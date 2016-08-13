@@ -1,0 +1,4 @@
+# No one wants to see your node_modules or .DS_Store
+node_modules
+.DS_Store
+
